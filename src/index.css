@@ -4,3 +4,8 @@
   padding: 0;
   font-family: "Outfit", Arial, Helvetica, sans-serif;
 }
+
+html, body {
+  height: 100%;               /* Faz o HTML e o body ocuparem toda a altura da janela */
+         /* Impede a rolagem horizontal */
+}
