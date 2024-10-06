@@ -1,0 +1,27 @@
+[
+    {
+        "role": "Frontend Developer",
+        "organization": "Microsoft",
+        "startDate": "2020-01-01",
+        "endDate": "2020-12-31",
+        "experience": [
+            "Experience 1",
+            "Experience 2",
+            "Experience 3"
+        ]	
+
+    },
+
+    {
+        "role": "Backend Developer",
+        "organization": "IBM",
+        "startDate": "2020-01-01",
+        "endDate": "2020-12-31",
+        "experience": [
+            "Experience 1",
+            "Experience 2",
+            "Experience 3"
+        ]	
+
+    }
+]

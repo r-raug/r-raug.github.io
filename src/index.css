@@ -6,6 +6,9 @@
 }
 
 html, body {
-  height: 100%;               /* Faz o HTML e o body ocuparem toda a altura da janela */
-         /* Impede a rolagem horizontal */
+  height: 100%;             
+}
+
+html{
+  scroll-behavior: smooth;
 }
