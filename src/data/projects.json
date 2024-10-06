@@ -1,0 +1,29 @@
+[
+    {
+        "title": "React Portfolio",
+        "imageSrc": "projects/project.png",
+        "description": "This is my portfolio website built using React. It showcases my skills, projects, and contact information.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ],
+        "demo":"https://google.ca",
+        "source":"https://google.ca"
+    },
+
+    {
+        "title": "Python Portfolio",
+        "imageSrc": "projects/project.png",
+        "description": "This is my portfolio website built using React. It showcases my skills, projects, and contact information.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ],
+        "demo":"https://google.ca",
+        "source":"https://google.ca"
+    }
+]

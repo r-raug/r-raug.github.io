@@ -19,15 +19,10 @@
 
 }
 
-.content{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-
-}
 
 .aboutImage{
-    width: 25%;
+    width: 20%;
+    
 }
 
 .aboutItems{
@@ -54,14 +49,12 @@
     transition: background-size 0.4s;
 }
 
-.aboutItem h3{
+.aboutItem p{
     font-size: 25px;
-    font-weight: 600;    
+    font-weight: 400;    
 }
 
-.aboutItem p{
-    font-size: 25px;    
-}
+
 
 @media screen and (max-width: 830px){
     .container{
