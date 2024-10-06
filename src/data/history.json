@@ -1,26 +1,57 @@
 [
     {
-        "role": "Frontend Developer",
-        "organization": "Microsoft",
-        "startDate": "2020-01-01",
-        "endDate": "2020-12-31",
+        "role": "Busboy",
+        "organization": "Tim Hortons",
+        "startDate": "2024/05",
+        "endDate": "current",
         "experience": [
-            "Experience 1",
-            "Experience 2",
-            "Experience 3"
+        " Maintain the restaurant to high standards of cleanliness and organization.",
+        "Organize inventory to ensure smooth store operations.",
+        "Ensure equipment has adequate supplies.",
+        "Assist the kitchen team as required."
+
         ]	
 
     },
 
     {
-        "role": "Backend Developer",
-        "organization": "IBM",
-        "startDate": "2020-01-01",
-        "endDate": "2020-12-31",
-        "experience": [
-            "Experience 1",
-            "Experience 2",
-            "Experience 3"
+        "role": "Internal controls analyst",
+        "organization": "MBM Insurance (Brazil)",
+        "startDate": "2021/04",
+        "endDate": "2023/03",
+        "experience": [            
+           " Monitor government regulatory changes closely.",         
+            "Conduct internal audits to ensure compliance with regulations.",
+           " Analyze company processes to propose performance improvements.",
+            "Collaborate with managers to innovate and develop new processes.",
+            "Conduct thorough reviews of process documentation."
+        ]	
+
+    },
+
+    {
+        "role": "Treasurer",
+        "organization": "MBM Insurance (Brazil)",
+        "startDate": "2016/06",
+        "endDate": "2021/04",
+        "experience": [            
+            "Process daily payments efficiently.",
+            "Maintain the financial balance of bank accounts with accuracy.",
+            "Ensure accuracy of payments in SAP through thorough verification."
+        ]	
+
+    },
+    
+    {
+        "role": "Financial analyst",
+        "organization": "MBM Insurance (Brazil)",
+        "startDate": "2012/06",
+        "endDate": "2016/06",
+        "experience": [            
+            "Responsible for entering payments into SAP(ERP).",
+            "Perform daily and monthly bank reconciliation.",
+            "Provision daily payment amounts and update bank balances.",
+            "Maintain up-to-date records of company investments."
         ]	
 
     }

@@ -52,6 +52,7 @@
 .heroImg{
     width: 30%;
     z-index: 1;
+    mask-image: linear-gradient(to top, transparent , black 30%);
     
 
 }
