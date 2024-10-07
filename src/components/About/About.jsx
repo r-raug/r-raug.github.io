@@ -18,20 +18,91 @@ export const About = () => {
                     </div>
                     <li >
                     <br/>
-                        <img src={getImageUrl("skills/html.png")} className={styles.responsiveImage} alt="Html icon"/>
-                        <img src={getImageUrl("skills/css.png")} className={styles.responsiveImage} alt="CSS icon" />
-                        <img src={getImageUrl("skills/php.png")} className={styles.responsiveImage} alt="PHP icon" />
-                        <img src={getImageUrl("skills/javascript.png")} className={styles.responsiveImage} alt="JS icon" />
-                        <img src={getImageUrl("skills/react.png")} className={styles.responsiveImage} alt="React icon" />
-                        <img src={getImageUrl("skills/bootstrap.png")} className={styles.responsiveImage} alt="Bootstrap icon" />
-                        <img src={getImageUrl("skills/asp.png")} className={styles.responsiveImage} alt="Asp icon" />
-                        <img src={getImageUrl("skills/csharp.png")} className={styles.responsiveImage} alt="Csharp icon" />
-                        <img src={getImageUrl("skills/java.png")} className={styles.responsiveImage} alt="Java icon" />
-                        <img src={getImageUrl("skills/python.png")} className={styles.responsiveImage} alt="Python icon" />
-                        <img src={getImageUrl("skills/sql.png")} className={styles.responsiveImage} alt="SQL icon" />
-                        <img src={getImageUrl("skills/spring-boot.png")} className={styles.responsiveImage} alt="Spring Boot icon" />
-                        <img src={getImageUrl("skills/swift.png")} className={styles.responsiveImage} alt="Swift icon" />
-                        <img src={getImageUrl("skills/android.png")} className={styles.responsiveImage} alt="Android icon" />
+                        <img 
+                            src={getImageUrl("skills/html.png")} 
+                            className={styles.responsiveImage} 
+                            alt="Html icon" 
+                            title="HTML"
+                        />
+                        <img 
+                            src={getImageUrl("skills/css.png")} 
+                            className={styles.responsiveImage} 
+                            alt="CSS icon" 
+                            title="CSS" 
+                        />
+                        <img 
+                            src={getImageUrl("skills/php.png")} 
+                            className={styles.responsiveImage} 
+                            alt="PHP icon" 
+                            title="PHP" 
+                        />
+                        <img 
+                            src={getImageUrl("skills/javascript.png")} 
+                            className={styles.responsiveImage} 
+                            alt="JS icon" 
+                            title="JavaScript" 
+                        />
+                        <img 
+                            src={getImageUrl("skills/react.png")} 
+                            className={styles.responsiveImage} 
+                            alt="React icon" 
+                            title="React" 
+                        />
+                        <img 
+                            src={getImageUrl("skills/bootstrap.png")} 
+                            className={styles.responsiveImage} 
+                            alt="Bootstrap icon" 
+                            title="Bootstrap" 
+                        />
+                        <img 
+                            src={getImageUrl("skills/asp.png")} 
+                            className={styles.responsiveImage} 
+                            alt="Asp icon" 
+                            title="ASP.NET" 
+                        />
+                        <img 
+                            src={getImageUrl("skills/csharp.png")} 
+                            className={styles.responsiveImage} 
+                            alt="Csharp icon" 
+                            title="C#" 
+                        />
+                        <img 
+                            src={getImageUrl("skills/java.png")} 
+                            className={styles.responsiveImage} 
+                            alt="Java icon" 
+                            title="Java" 
+                        />
+                        <img 
+                            src={getImageUrl("skills/python.png")} 
+                            className={styles.responsiveImage} 
+                            alt="Python icon" 
+                            title="Python" 
+                        />
+                        <img 
+                            src={getImageUrl("skills/sql.png")} 
+                            className={styles.responsiveImage} 
+                            alt="SQL icon" 
+                            title="SQL" 
+                        />
+                        <img 
+                            src={getImageUrl("skills/spring-boot.png")} 
+                            className={styles.responsiveImage} 
+                            alt="Spring Boot icon" 
+                            title="Spring Boot" 
+                        />
+                        <img 
+                            src={getImageUrl("skills/swift.png")} 
+                            className={styles.responsiveImage} 
+                            alt="Swift icon" 
+                            title="Swift" 
+                        />
+                        <img 
+                            src={getImageUrl("skills/android.png")} 
+                            className={styles.responsiveImage} 
+                            alt="Android icon" 
+                            title="Android" 
+                        />
+
                     </li>                  
                 </li>
             </ul>

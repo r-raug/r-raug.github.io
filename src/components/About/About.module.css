@@ -1,6 +1,6 @@
 @import "../../vars.css";
 
-.container{
+.container {
     position: relative;
     background-color: rgba(12, 12, 12, 0.6);
     border-radius: 15px;
@@ -11,12 +11,11 @@
     margin-right: 10%;
 }
 
-.title{
+.title {
     color: var(--color-text);
     font-size: 35px;
     font-weight: 700;
     letter-spacing: uppercase;
-
 }
 
 h3 {
@@ -26,21 +25,18 @@ h3 {
     margin-bottom: 10px;
 }
 
-
-.aboutImage{
+.aboutImage {
     width: 20%;
-    
-    
 }
 
-.aboutItems{
+.aboutItems {
     color: var(--color-text);
     display: flex;
     flex-direction: column;
     gap: 50px;
 }
 
-.aboutItem{
+.aboutItem {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -51,51 +47,49 @@ h3 {
     background-size: 0 100%;
 }
 
-.aboutItem:hover{
+.aboutItem:hover {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: background-size 0.4s;
 }
 
-.aboutItem p{
+.aboutItem p {
     font-size: 25px;
-    font-weight: 400;    
+    font-weight: 400;
 }
 
+.responsiveImage {
+    width: 50px; 
+    height: 50px; 
+    transition: transform 0.3s ease; 
+}
 
+.responsiveImage:hover {
+    transform: scale(1.2); 
+    z-index: 1; 
+}
 
-
-@media screen and (max-width: 830px){
-    .container{
+@media screen and (max-width: 830px) {
+    .container {
         background-color: transparent;
         padding-left: 0;
         padding-right: 0;
     }
 
-    .content{
+    .content {
         flex-direction: column;
-
     }
 
-    .aboutImage{
+    .aboutImage {
         display: none;
     }
 
-    .aboutItems{
+    .aboutItems {
         margin-top: 29px;
     }
 
-    .aboutItem{
+    .aboutItem {
         padding-left: 0;
         padding-right: 0;
     }
 }
-
-
-.responsive-image {
-    max-width: 50px;
-    max-height: 50px;
-    max-width: 100%;
-    height: auto;
-    margin-right: 15px;
-  }
