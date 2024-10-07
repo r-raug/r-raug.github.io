@@ -19,6 +19,13 @@
 
 }
 
+h3 {
+    color: var(--color-text);
+    font-size: 25px;
+    font-weight: 100;
+    margin-bottom: 10px;
+}
+
 
 .aboutImage{
     width: 20%;
@@ -54,6 +61,7 @@
     font-size: 25px;
     font-weight: 400;    
 }
+
 
 
 

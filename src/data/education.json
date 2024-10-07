@@ -1,0 +1,29 @@
+{
+    "education": [
+      {
+        "degree": "AEC – Programmer Analyst",
+        "field": "Information Technology",
+        "start_date": "May 2023",
+        "end_date": "Dez 2024",
+        "institution": "Collège LaSalle",
+        "location": "Montreal, Canada"
+      },
+      {
+        "degree": "MBA",
+        "field": "Finance and Controllership",
+        "start_date": "2016",
+        "end_date": "2018",
+        "institution": "UniRitter",
+        "location": "Porto Alegre, Brazil"
+      },
+      {
+        "degree": "Bachelor’s Degree",
+        "field": "Business Management",
+        "start_date": "2011",
+        "end_date": "2015",
+        "institution": "Fadergs",
+        "location": "Porto Alegre, Brazil"
+      }
+    ]
+  }
+  
