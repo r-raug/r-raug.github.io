@@ -47,7 +47,8 @@
             "Vite",
             "CSS",
             "HTML",
-            "Bootstrap"
+            "Bootstrap",
+            "Axios"
         ],
         
         "source":"https://github.com/r-raug/r-raug.github.io/tree/feature"

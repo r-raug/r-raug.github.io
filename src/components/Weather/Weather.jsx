@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import styles from "./Weather.module.css";
+import styles from './weather.module.css';
 
 const Weather = () => {
   const [weatherData, setWeatherData] = useState(null);
@@ -9,7 +9,7 @@ const Weather = () => {
   
   const apiKey = '3b1297ed0a2f41c3a8a171443240710'; 
 
-  
+ 
   const fetchLocation = async () => {
     try {
       const response = await axios.get('https://ipapi.co/json/');
@@ -40,7 +40,8 @@ const Weather = () => {
   }, []);
 
   return (
-    <div className={styles.container}>   
+    <div className={styles.container}>
+      
 
       {error && <p>{error}</p>}
 
@@ -52,7 +53,9 @@ const Weather = () => {
           <img src={weatherData.current.condition.icon} alt="Weather Icon" />
           <p>Humidity: {weatherData.current.humidity}%</p>
           <p>Wind Speed: {weatherData.current.wind_kph} kph</p>
+          <p>Powered by <a href="https://www.weatherapi.com/" title="Free Weather API">WeatherAPI.com</a></p>
         </div>
+        
       )}
     </div>
   );
