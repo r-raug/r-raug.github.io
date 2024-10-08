@@ -1,8 +1,24 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This is a personal portfolio website developed using React, Vite, CSS, HTML, and Bootstrap. The website showcases projects and skills, providing a platform for potential employers or clients to learn more about the work of Rony Raug.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Responsive Design**: The website is built with Bootstrap to ensure it looks great on all devices.
+- **Project Showcase**: Displays various projects with descriptions and links.
+- **About Section**: Provides information about the author and their skills.
+- **Contact Form**: Allows visitors to reach out to the author directly.
+
+## Technology Stack
+
+- **React** (JavaScript library for building user interfaces)
+- **Vite** (Next-generation frontend tooling)
+- **CSS** (for styling)
+- **HTML** (markup language)
+- **Bootstrap** (for responsive design and styling)
+
+## Author
+
+Rony Raug
