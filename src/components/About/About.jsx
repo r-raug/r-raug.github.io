@@ -7,7 +7,7 @@ export const About = () => {
         <section className={styles.container} id ="about">
             <h2 className={styles.title}>About</h2>
             <div><img src={getImageUrl("about/about.png")} className={styles.aboutImage} alt="About Me" /></div>
-            <h3>I love taking on challenges and finding ways to make work easier and more efficient for myself and my team. Now that I’ve finished my Programmer-Analyst program at LaSalle College, I’m focused on improving my skills and exploring new opportunities for growth in the IT field.</h3>
+            <h3 className={styles.description}>I love taking on challenges and finding ways to make work easier and more efficient for myself and my team. Now that I’ve finished my Programmer-Analyst program at LaSalle College, I’m focused on improving my skills and exploring new opportunities for growth in the IT field.</h3>
 
             <ul className={styles.aboutItems}>
                 <li className={styles.aboutItem}>
