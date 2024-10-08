@@ -1,29 +1,55 @@
 [
     {
-        "title": "React Portfolio",
-        "imageSrc": "projects/project.png",
-        "description": "This is my portfolio website built using React. It showcases my skills, projects, and contact information.",
+        "title": "Book Supply",
+        "imageSrc": "projects/Book Supply.jpeg",
+        "description": "This is a C# application built with Entity Framework to manage books, users, inventory, and buyers. The system allows users to add or remove books, manage the inventory, and track buyers.",
         "skills": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "React"
-        ],
-        "demo":"https://google.ca",
-        "source":"https://google.ca"
+            "C#",
+            "Entity Framework",
+            "Windows Forms"
+        ],        
+        "source":"https://github.com/r-raug/BookSupply"
     },
 
     {
-        "title": "Python Portfolio",
-        "imageSrc": "projects/project.png",
-        "description": "This is my portfolio website built using React. It showcases my skills, projects, and contact information.",
+        "title": "User Management",
+        "imageSrc": "projects/react_user_management.jpeg",
+        "description": "This is a React application that interacts with an API to manage users. The app allows users to add new users to the database and retrieve a list of saved users, providing a simple interface for user management.",
         "skills": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "React"
+            "React",
+            "Bootstrap",
+            "Axios"
         ],
-        "demo":"https://google.ca",
-        "source":"https://google.ca"
+        
+        "source":"https://github.com/r-raug/ReactJS_PostAndGetFormApi/tree/main"
+    },
+
+    {
+        "title": "Grocery Management",
+        "imageSrc": "projects/grocery_management.jpeg",
+        "description": "This is an Android application developed using Android Studio, Java, SQLite, and Firebase. The app allows users to add items to a list and remove them as needed, providing a simple and efficient way to manage tasks or shopping lists.",
+        "skills": [
+            "Java",
+            "SQLite",
+            "FireBase",
+            "Android Studio"
+        ],
+        
+        "source":"https://github.com/r-raug/grocery_management/tree/master"
+    },
+
+    {
+        "title": "Portfolio Website",
+        "imageSrc": "projects/portfolio.jpeg",
+        "description": "This is a personal portfolio website developed using React, Vite, CSS, HTML, and Bootstrap. The website showcases projects and skills, providing a platform for potential employers or clients to learn more about the work of Rony Raug.",
+        "skills": [
+            "React",
+            "Vite",
+            "CSS",
+            "HTML",
+            "Bootstrap"
+        ],
+        
+        "source":"https://github.com/r-raug/ReactJS_PostAndGetFormApi/tree/main"
     }
 ]
